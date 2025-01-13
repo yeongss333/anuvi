@@ -793,6 +793,9 @@ select {
 .story li:hover p{
     color: #BF8578;
 }
+.story li:hover img{
+    filter: saturate(1.5)
+}
 
 
 /* 이벤트 배너 */
