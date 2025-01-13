@@ -668,6 +668,7 @@ input[id="menuicon"]:checked+label+div{
 
 footer{
     background: url(../images/main/footer_bg.png) no-repeat center bottom / cover;
+    position: relative;
 }
 .footer_in{
     width: 80%;
@@ -744,12 +745,14 @@ footer span{
 .footer_right li:hover img{
     filter: brightness(1.2);
 }
-
-
 /* 탑버튼 */
 .top_bt{
-    position: fixed;
-    bottom: 560px;
+    position: absolute;
+    top: -5%;
     right: 1%;
-    display: none;
+    animation: ani1 1s infinite linear alternate;
+}
+@keyframes ani1{
+    0%{transform: translateY(0);}
+    100%{transform: translateY(-10px);}
 }
