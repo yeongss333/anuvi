@@ -313,7 +313,7 @@ input[id="menuicon"]:checked+label+div{
     text-align: center;
 }
 .set_bg1{
-    background: url(../images/main/bg_1.png) no-repeat 31.5% 25%;
+    background: url(../images/main/bg_1.png) no-repeat 33.7% 25%;
 }
 .m1{
     margin: 180px auto 0;
@@ -365,7 +365,7 @@ input[id="menuicon"]:checked+label+div{
 
 /* 브랜드 밸류 */
 .set_bg2{
-    background: url(../images/main/bg_1.png) no-repeat 34.5% 25%;
+    background: url(../images/main/bg_1.png) no-repeat 36.4% 25%;
 }
 .m2{
     margin: 250px auto 0;
@@ -440,7 +440,7 @@ input[id="menuicon"]:checked+label+div{
 
 /* 히스토리 */
 .set_bg3{
-    background: url(../images/main/bg_1.png) no-repeat 35% 25%;
+    background: url(../images/main/bg_1.png) no-repeat 37% 25%;
 }
 .m3{
     margin: 200px auto 0;

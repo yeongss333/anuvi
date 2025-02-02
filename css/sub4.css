@@ -321,7 +321,7 @@ input[id="menuicon"]:checked+label+div{
     max-height: 1000px;
 }
 .title_bg1{
-    background: url(../images/main/bg_1.png) no-repeat 38% 25%;
+    background: url(../images/main/bg_1.png) no-repeat 38.2% 25%;
 }
 .m1{
     margin: 150px auto 0;
@@ -428,7 +428,7 @@ input[id="menuicon"]:checked+label+div{
 
 /* 뉴스&이벤트 슬기로운 요가생활 */
 .title_bg2{
-    background: url(../images/main/bg_1.png) no-repeat 34% 25%;
+    background: url(../images/main/bg_1.png) no-repeat 34.5% 25%;
 }
 .news{
     width: 1320px;

@@ -325,7 +325,7 @@ input[id="menuicon"]:checked+label+div{
     text-align: center;
 }
 .title_bg1{
-    background: url(../images/main/bg_1.png) no-repeat 41.3% 73%;
+    background: url(../images/main/bg_1.png) no-repeat 42.3% 73%;
 }
 .m1{
     margin: auto;
@@ -473,7 +473,7 @@ input[id="menuicon"]:checked+label+div{
 
 /* 아누비 멤버십 플러스 */
 .title_bg2{
-    background: url(../images/main/bg_1.png) no-repeat 36.5% 28%;
+    background: url(../images/main/bg_1.png) no-repeat 37.8% 28%;
 }
 .m2{
     margin: 200px auto 0;
@@ -537,7 +537,7 @@ input[id="menuicon"]:checked+label+div{
 
 /* 선물 구매 */
 .title_bg3{
-    background: url(../images/main/bg_1.png) no-repeat 28.3% 18%;
+    background: url(../images/main/bg_1.png) no-repeat 30% 18%;
 }
 .m3{
     margin: 220px auto 0;
